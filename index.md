@@ -1,7 +1,7 @@
 # Samwise Gamgee - Wahre Helden bleiben unerkannt
-Herr der Ringe dreht sich vor allem um Frodo, der den Ring zu zerstören hat. Allerdings ist nicht er der wahre held, sondern sein Gärtner Sam.
+Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstören hat. Allerdings ist nicht er der wahre Held, sondern sein Gärtner Sam.
 
-## Charackter Eigenschaften
+## Charakter Eigenschaften
 * Beruf: Gärtner
 * Spezies: Hobbits
 * Ein friedlebender Geselle
